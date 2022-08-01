@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color: red;
+    margin: 10px;
+}
+a.active{
+    color: grey;
+    font-weight: bold;
+}
